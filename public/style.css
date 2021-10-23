@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+#arow{
+    width: 40px;
+    padding: 10px;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+}
+
+#hdTop{
+    text-align: center;
+    margin:0px 20px 50px;
+}
+
+.section1{
+    margin-left: 400px;
+    width: 50%;
+    justify-content:center;
+    display: flex;
+}
+
+h3{
+    color: rgb(252, 229, 25);
+    text-align: center;
+}
+
+p{
+    margin: 20px;
+    padding: auto;
+    max-width: 3500px;
+}
+
+.line{
+    margin:10px 50px 10px 480px;
+    height: 200px;width: 500px;
+}
